@@ -9,32 +9,32 @@ def initialize(username,password,email)
 
 end
 
-def setUsername = (username)
+def setUsername=(username)
 @username = username
 
 end
 
-def getUsername = (username)
+def getUsername=(username)
 @username 
 
 end
 
-def setPassword = (password)
+def setPassword=(password)
 @password = password
 
 end
 
-def getPassword = (password)
+def getPassword=(password)
 @password 
 
 end
 
-def setEmail = (email)
+def setEmail=(email)
 @email = email
 
 end
 
-def getEmail = (email)
+def getEmail=(email)
 @email
 
 end
