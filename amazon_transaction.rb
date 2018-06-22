@@ -34,7 +34,10 @@ def setEmail = (email)
 
 end
 
+def getEmail = (email)
+@email
 
+end
 
 
 
