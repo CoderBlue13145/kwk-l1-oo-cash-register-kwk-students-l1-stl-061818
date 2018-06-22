@@ -39,12 +39,12 @@ def getEmail = (email)
 
 end
 
+end
 
 
+user = User.new("cool","gag","frog")
 
-
-
-
+puts 
 
 
 
