@@ -31,6 +31,7 @@ end
 
 def setEmail = (email)
 @email = email
+
 end
 
 
