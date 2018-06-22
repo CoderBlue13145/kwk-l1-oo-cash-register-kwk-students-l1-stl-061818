@@ -44,7 +44,7 @@ end
 
 user = User.new("cool","gag","frog")
 
-puts 
+puts user.get.Username
 
 
 
