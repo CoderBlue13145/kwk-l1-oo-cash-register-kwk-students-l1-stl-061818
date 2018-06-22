@@ -20,18 +20,18 @@ def getUsername = (username)
 end
 
 def setPassword = (password)
-@username = username
+@password = password
 
 end
 
-def getUsername = (username)
-@username 
+def getPassword = (password)
+@password 
 
 end
 
-
-
-
+def setEmail = (email)
+@email = email
+end
 
 
 
